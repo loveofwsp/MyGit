@@ -9,7 +9,9 @@ namespace MyGit
     {
         static void Main(string[] args)
         {
+            test;
             Console.WriteLine("world");
+            test;
         }
     }
 }
