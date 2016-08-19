@@ -11,9 +11,9 @@ namespace MyGit
     {
         static void Main(string[] args)
         {
-            DebuggableAttribute.DebuggingModes;
+           test;
             Console.WriteLine("world");
-            DebuggableAttribute.DebuggingModes;
+            test;
         }
     }
 }
