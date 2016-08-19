@@ -11,9 +11,9 @@ namespace MyGit
     {
         static void Main(string[] args)
         {
-            1test;
+            1txexstddd;
             Console.WriteLine("world");
-            1test;
+            1txexstddd;
         }
     }
 }
